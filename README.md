@@ -3,4 +3,4 @@
 
 
 
-Dataset Link: https://github.com/balajisrinivas/Face-Mask-Detection/tree/master/dataset
+Dataset : https://github.com/balajisrinivas/Face-Mask-Detection/tree/master/dataset
